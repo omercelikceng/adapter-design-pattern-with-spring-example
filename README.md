@@ -1,0 +1,1 @@
+# adapter-design-pattern-with-spring-example
